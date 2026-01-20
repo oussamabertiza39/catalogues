@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "TechCorp Global",
+    "logo": "/images/partners/techcorp.png",
+    "description": "Leading technology solutions provider specializing in enterprise software and cloud services."
+  },
+  {
+    "id": 2,
+    "name": "Innovate Industries",
+    "logo": "/images/partners/innovate.png",
+    "description": "Pioneer in manufacturing and industrial automation with presence in 30+ countries."
+  },
+  {
+    "id": 3,
+    "name": "Green Solutions Ltd",
+    "logo": "/images/partners/green-solutions.png",
+    "description": "Environmental sustainability company focused on renewable energy and eco-friendly products."
+  },
+  {
+    "id": 4,
+    "name": "Digital Ventures",
+    "logo": "/images/partners/digital-ventures.png",
+    "description": "Venture capital firm investing in cutting-edge technology startups and innovation."
+  },
+  {
+    "id": 5,
+    "name": "SecureNet Systems",
+    "logo": "/images/partners/securenet.png",
+    "description": "Cybersecurity experts providing comprehensive security solutions for businesses worldwide."
+  },
+  {
+    "id": 6,
+    "name": "CloudFirst Technologies",
+    "logo": "/images/partners/cloudfirst.png",
+    "description": "Cloud infrastructure and services provider enabling digital transformation for enterprises."
+  },
+  {
+    "id": 7,
+    "name": "DataMax Analytics",
+    "logo": "/images/partners/datamax.png",
+    "description": "Data analytics and business intelligence company helping organizations make data-driven decisions."
+  },
+  {
+    "id": 8,
+    "name": "SmartBuild Inc",
+    "logo": "/images/partners/smartbuild.png",
+    "description": "Smart building and IoT solutions provider for modern commercial and residential properties."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Home Controller",
+    "slug": "smart-home-controller",
+    "description": "A comprehensive smart home automation system that integrates with all major IoT devices. Control your entire home from one intuitive interface.",
+    "images": [
+      "/images/products/smart-home-1.jpg",
+      "/images/products/smart-home-2.jpg",
+      "/images/products/smart-home-3.jpg"
+    ],
+    "features": [
+      "Voice control compatibility",
+      "Mobile app integration",
+      "Energy monitoring dashboard",
+      "Automated scheduling",
+      "Multi-device support up to 200 devices",
+      "Secure encryption"
+    ],
+    "cataloguePdf": "/catalogues/smart-home-controller.pdf"
+  },
+  {
+    "id": 2,
+    "name": "Industrial IoT Gateway",
+    "slug": "industrial-iot-gateway",
+    "description": "Robust industrial-grade IoT gateway designed for harsh environments. Enables seamless connectivity between industrial equipment and cloud platforms.",
+    "images": [
+      "/images/products/iot-gateway-1.jpg",
+      "/images/products/iot-gateway-2.jpg",
+      "/images/products/iot-gateway-3.jpg"
+    ],
+    "features": [
+      "IP65-rated enclosure",
+      "Wide operating temperature (-40°C to 75°C)",
+      "Multiple connectivity options (LoRaWAN, NB-IoT, WiFi)",
+      "Edge computing capabilities",
+      "Industrial protocol support (Modbus, OPC UA)",
+      "Remote firmware updates"
+    ],
+    "cataloguePdf": "/catalogues/industrial-iot-gateway.pdf"
+  },
+  {
+    "id": 3,
+    "name": "Wireless Sensor Hub",
+    "slug": "wireless-sensor-hub",
+    "description": "Compact wireless sensor hub for real-time environmental monitoring. Perfect for smart buildings, agriculture, and industrial applications.",
+    "images": [
+      "/images/products/sensor-hub-1.jpg",
+      "/images/products/sensor-hub-2.jpg",
+      "/images/products/sensor-hub-3.jpg"
+    ],
+    "features": [
+      "Battery-powered with 5-year life",
+      "Supports 50+ sensor types",
+      "Cloud-native data streaming",
+      "Low-power wide-area network",
+      "Easy plug-and-play setup",
+      "Data analytics included"
+    ],
+    "cataloguePdf": "/catalogues/wireless-sensor-hub.pdf"
+  },
+  {
+    "id": 4,
+    "name": "Enterprise Security Camera",
+    "slug": "enterprise-security-camera",
+    "description": "AI-powered security camera with advanced analytics. Features facial recognition, motion detection, and intelligent alerts for comprehensive security.",
+    "images": [
+      "/images/products/security-camera-1.jpg",
+      "/images/products/security-camera-2.jpg",
+      "/images/products/security-camera-3.jpg"
+    ],
+    "features": [
+      "4K ultra HD resolution",
+      "Night vision up to 100m",
+      "AI-powered person detection",
+      "Real-time alerts",
+      "Cloud storage with 30-day retention",
+      "Weather-resistant IP67 design"
+    ],
+    "cataloguePdf": "/catalogues/enterprise-security-camera.pdf"
+  },
+  {
+    "id": 5,
+    "name": "Energy Management System",
+    "slug": "energy-management-system",
+    "description": "Comprehensive energy management solution for businesses. Monitor, analyze, and optimize energy consumption across your entire facility.",
+    "images": [
+      "/images/products/energy-system-1.jpg",
+      "/images/products/energy-system-2.jpg",
+      "/images/products/energy-system-3.jpg"
+    ],
+    "features": [
+      "Real-time energy monitoring",
+      "Cost optimization algorithms",
+      "Carbon footprint tracking",
+      "Predictive maintenance alerts",
+      "Integration with smart meters",
+      "Custom reporting dashboards"
+    ],
+    "cataloguePdf": "/catalogues/energy-management-system.pdf"
+  },
+  {
+    "id": 6,
+    "name": "Smart Lighting Controller",
+    "slug": "smart-lighting-controller",
+    "description": "Intelligent lighting control system for commercial and residential use. Automated lighting based on occupancy, time, and natural light levels.",
+    "images": [
+      "/images/products/lighting-controller-1.jpg",
+      "/images/products/lighting-controller-2.jpg",
+      "/images/products/lighting-controller-3.jpg"
+    ],
+    "features": [
+      "Auto-dimming and scheduling",
+      "Daylight harvesting",
+      "Occupancy sensor integration",
+      "Color temperature adjustment",
+      "Energy savings up to 40%",
+      "Mobile app control"
+    ],
+    "cataloguePdf": "/catalogues/smart-lighting-controller.pdf"
+  }
+]

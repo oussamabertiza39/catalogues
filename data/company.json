@@ -1,0 +1,37 @@
+{
+  "name": "InnovateTech Solutions",
+  "tagline": "Empowering the Future with Smart Technology",
+  "description": "We are a leading technology company dedicated to delivering innovative IoT and smart solutions that transform businesses and homes worldwide. Since 2010, we have been at the forefront of technological advancement, creating products that make life smarter, safer, and more efficient.",
+  "mission": "To revolutionize the way people interact with technology by creating intuitive, sustainable, and innovative smart solutions that enhance quality of life and drive business success.",
+  "vision": "To be the global leader in smart technology solutions, recognized for excellence in innovation, reliability, and customer satisfaction, while contributing to a more connected and sustainable world.",
+  "values": [
+    {
+      "title": "Innovation",
+      "description": "We continuously push boundaries and embrace cutting-edge technology to create solutions that shape the future."
+    },
+    {
+      "title": "Quality",
+      "description": "We are committed to excellence in every product we build and every service we deliver."
+    },
+    {
+      "title": "Sustainability",
+      "description": "We prioritize eco-friendly solutions that minimize environmental impact while maximizing efficiency."
+    },
+    {
+      "title": "Customer Focus",
+      "description": "Our customers are at the heart of everything we do, driving us to exceed expectations."
+    }
+  ],
+  "contact": {
+    "address": "123 Innovation Drive, Tech Valley, CA 94025",
+    "phone": "+1 (555) 123-4567",
+    "email": "contact@innovatetech.com",
+    "hours": "Monday - Friday: 9:00 AM - 6:00 PM"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/company/innovatetech",
+    "twitter": "https://twitter.com/innovatetech",
+    "facebook": "https://facebook.com/innovatetech",
+    "instagram": "https://instagram.com/innovatetech"
+  }
+}

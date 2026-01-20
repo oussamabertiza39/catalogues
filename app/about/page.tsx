@@ -135,7 +135,7 @@ export default function AboutPage() {
             Want to Learn More?
           </h2>
           <p className="text-lg text-primary-100 max-w-2xl mx-auto mb-8">
-            We'd love to hear from you. Reach out to us with any questions or inquiries.
+            We&apos;d love to hear from you. Reach out to us with any questions or inquiries.
           </p>
           <a
             href="/contact"

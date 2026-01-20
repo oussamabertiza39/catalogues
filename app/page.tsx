@@ -137,7 +137,7 @@ export default function Home() {
             Ready to Transform Your Business?
           </h2>
           <p className="text-lg text-primary-100 max-w-2xl mx-auto mb-8">
-            Let's discuss how our smart technology solutions can help you achieve your goals.
+            Let&apos;s discuss how our smart technology solutions can help you achieve your goals.
           </p>
           <Link
             href="/contact"
